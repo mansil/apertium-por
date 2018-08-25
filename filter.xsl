@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?> <!-- -*- nxml -*- -->
 <!--
- Copyright (C) 2005 Universitat d'Alacant / Universidad de Alicante
+ Direitos de Autor (C) 2005 Universitat d'Alacant / Universidad de Alicante
 
- This program is free software; you can redistribute it and/or
- modify it under the terms of the GNU General Public License as
- published by the Free Software Foundation; either version 2 of the
- License, or (at your option) any later version.
+ Este programa é software livre; pode redistribuí-lo e/ou
+ modifique-o sob os termos da GNU - Licença Pública geral
+ como publicado pela Free Software Foundation; ou a versão 2 da
+ Licença, ou (a seu critério) qualquer versão superior.
 
- This program is distributed in the hope that it will be useful, but
- WITHOUT ANY WARRANTY; without even the implied warranty of
- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
- General Public License for more details.
+ Este programa é distribuído na esperança de que seja útil, mas
+ SEM QUALQUER GARANTIA; mesmo sem a garantia implícita de
+ COMERCIALIZAÇÃO ou FITNESS PARA UM PROPÓSITO PARTICULAR. Consulte
+ GNU - Licença Pública Geral para mais detalhes.
 
- You should have received a copy of the GNU General Public License
- along with this program; if not, write to the Free Software
- Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
- 02111-1307, USA.
+ Deveria ter recebido uma cópia da GNU - Licença Pública Geral
+ com este programa; se não, escreva para 
+ Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
+ 02111-1307, EUA.
 -->
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:output method="xml" encoding="UTF-8"/>
