@@ -11,7 +11,7 @@
 ^dois/dois<num><m><sp>$
 ^átomos/átomo<n><m><pl>$
 ^de/de<pr>$
-^hidrogênio/hidrogênio<n><m><sg>$
+^hidrogénio/hidrogénio<n><m><sg>$
 ^e/e<cnjcoo>$
 ^um/um<num><m><sp>/um<prn><tn><m><sg>/um<det><ind><m><sg>$
 ^de/de<pr>$
@@ -404,7 +404,7 @@
 ^primeiros/primeiro<adj><m><pl>$
 ^átomos/átomo<n><m><pl>$
 ^de/de<pr>$
-^hidrogênio/hidrogênio<n><m><sg>$
+^hidrogénio/hidrogénio<n><m><sg>$
 ^,/,<cm>$
 ^elemento/elemento<n><m><sg>$
 ^mais/mais<adv>$
@@ -625,7 +625,7 @@
 ^polos/polo<n><m><pl>$
 ^./.<sent>$ 
 
-^Vênus/Vênus<np><loc>$
+^Vénus/Vénus<np><loc>$
 ^possui/possuir<vblex><imp><p2><sg>/possuir<vblex><pri><p3><sg>$
 ^uma/um<prn><tn><f><sg>/um<det><ind><f><sg>$
 ^espessa/espessar<vblex><imp><p2><sg>/espessar<vblex><pri><p3><sg>$
