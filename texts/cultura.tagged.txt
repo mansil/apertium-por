@@ -10,8 +10,8 @@
 	"de" pr
 "<várias>"
 	"vário" det ind f pl
-"<acepções>"
-	"acepção" n f pl
+"<aceções>"
+	"aceção" n f pl
 "<,>"
 	"," cm
 "<sendo>"
