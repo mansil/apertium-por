@@ -5,7 +5,7 @@
 "<ou>"
 	"ou" cnjcoo
 "<seção>"
-	"seção" n f sg
+	"secção" n f sg
 "<contém>"
 	"conter" vblex pri p3 sg
 "<informações>"
@@ -69,7 +69,7 @@
 "<de>"
 	"de" pr
 "<PLANET>"
-	"PLANET" np al
+	"PLANETA" np al
 "<C>"
 	"c" n m sg
 "<e>"
@@ -78,8 +78,8 @@
 	"também" adv
 "<de>"
 	"de" pr
-"<Venus>"
-	"Venus" np al
+"<Vénus>"
+	"Vénus" np al
 "<Climate>"
 	"Climate" np al
 "<Orbiter>"
@@ -112,8 +112,8 @@
 	"ir" vblex pri p3 sg
 "<explorar>"
 	"explorar" vblex inf
-"<Vênus>"
-	"Vênus" np loc
+"<Vénus>"
+	"Vénus" np loc
 "<.>"
 	"." sent
 "<Foi>"
@@ -214,8 +214,8 @@
 	"o" det def f pl
 "<investigações>"
 	"investigação" n f pl
-"<planejadas>"
-	"planejar" vblex pp f pl
+"<planeadas>"
+	"planear" vblex pp f pl
 "<incluem>"
 	"incluir" vblex pri p3 pl
 "<o>"
@@ -229,12 +229,12 @@
 	"superfície" n f sg
 "<de>"
 	"de" pr
-"<Vênus>"
-	"Vênus" np loc
+"<Vénus>"
+	"Vénus" np loc
 "<com>"
 	"com" pr
-"<câmeras>"
-	"câmera" n f pl
+"<câmaras>"
+	"câmara" n f pl
 "<infravermelho>"
 	"infravermelho" adj m sg
 "<,>"
@@ -352,8 +352,8 @@
 	"reencontrar" vblex inf
 "<com>"
 	"com" pr
-"<Vênus>"
-	"Vênus" np loc
+"<Vénus>"
+	"Vénus" np loc
 "<após>"
 	"após" pr
 "<cinco>"
