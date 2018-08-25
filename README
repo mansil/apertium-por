@@ -3,25 +3,25 @@ Portuguese
                             apertium-por
 ===============================================================================
 
-This is an Apertium monolingual language package for Portuguese. What
-you can use this language package for:
+Este é um pacote de idiomas monolíngue do Apertium para Português.
+Pode utilizar este pacote de idiomas para:
 
-* Morphological analysis of Portuguese
-* Morphological generation of Portuguese
-* Part-of-speech tagging of Portuguese
+* Análise morfológica do português
+* Geração morfológica do português
+* Marcação de parte do fala do português
 
-Requirements
+Requisitos
 ===============================================================================
 
-You will need the following software installed:
+Vai precisar do seguinte software instalado:
 
 * lttoolbox (>= 3.3.0)
 * apertium (>= 3.3.0)
 * vislcg3 (>= 0.9.9.10297)
 
-If this does not make any sense, we recommend you look at: www.apertium.org
+ Se isto não fizer sentido, nós recomendamos que consulte: www.apertium.org
 
-Compiling
+Compilação
 ===============================================================================
 
 Given the requirements being installed, you should be able to just run:
@@ -44,7 +44,7 @@ You can give a --prefix to ./configure to install as a non-root user,
 but make sure to use the same prefix when installing the translation
 pair and any other language packages.
 
-Testing
+Testes
 ===============================================================================
 
 If you are in the source directory after running make, the following
@@ -56,7 +56,7 @@ TODO: test analysis result
 $ echo "TODO: test sentence" | apertium -d . por-tagger
 TODO: test tagger result
 
-Files and data
+Ficheiros e Dados
 ===============================================================================
 
 * apertium-por.por.dix            - Monolingual dictionary
@@ -65,14 +65,14 @@ Files and data
 * apertium-por.post-por.dix       - Post-generator
 * modes.xml                       - Translation modes
 
-For more information
+Para mais informação
 ===============================================================================
 
 * http://wiki.apertium.org/wiki/Installation
 * http://wiki.apertium.org/wiki/apertium-por
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
 
-Help and support
+Ajuda e Apoio
 ===============================================================================
 
 If you need help using this language pair or data, you can contact:
@@ -80,5 +80,5 @@ If you need help using this language pair or data, you can contact:
 * Mailing list: apertium-stuff@lists.sourceforge.net
 * IRC: #apertium on irc.freenode.net
 
-See also the file AUTHORS included in this distribution.
+Consulte também o ficheiro "AUTHORS", incluído nesta distribuição.
 
