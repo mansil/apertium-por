@@ -34,12 +34,12 @@
 ^antes/antes<adv>$
 ^chamada/chamar<vblex><pp><f><sg>$
 ^de/de<pr>$
-^PLANET/PLANET<np><al>$
+^PLANETA/PLANETA<np><al>$
 ^C/C<num><mf><sp>/C<n><m><sg>$
 ^e/e<cnjcoo>$
 ^também/também<adv>$
 ^de/de<pr>$
-^Venus/Venus<np><al>$
+^Vénus/Vénus<np><al>$
 ^Climate/Climate<np><al>$
 ^Orbiter/Orbiter<np><al>$
 ^(/(<lpar>$
@@ -56,7 +56,7 @@
 ^que/que<cnjsub>/que<prn><itg><mf><sg>/que<rel><an><mf><sp>$
 ^vai/ir<vblex><imp><p2><sg>/ir<vblex><pri><p3><sg>$
 ^explorar/explorar<vblex><inf>/explorar<vblex><fts><p1><sg>/explorar<vblex><fts><p3><sg>/explorar<vblex><infps><p1><sg>/explorar<vblex><infps><p3><sg>$
-^Vênus/Vênus<np><loc>$
+^Vénus/Vénus<np><loc>$
 ^./.<sent>$ 
 
 ^Foi/ir<vblex><ifi><p3><sg>/ser<vbser><ifi><p3><sg>$
